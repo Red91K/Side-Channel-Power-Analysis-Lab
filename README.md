@@ -3,7 +3,7 @@ Demonstration of CPA &amp; DPA Attacks against AES
 
 ## Features
 
-- Walkthrough of CPA and Monobit DPA attacks on AES-128
+- Walkthrough of Correlation Power Analysis (CPA) and Monobit Differential Power Analysis (DPA) attacks against AES-128
 - Analysis and visualization of real power traces
 - Full attack pipeline: trace loading -> key recovery -> message decryption
 
