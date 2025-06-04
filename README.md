@@ -17,7 +17,7 @@ Demonstration of CPA &amp; DPA Attacks against AES
 3. Open and run the notebook: `Lab.ipynb`
 
 ## Alternative: View the Notebook Online
-
+- [Run & Interact on Binder](https://mybinder.org/v2/gh/Red91K/Side-Channel-Power-Analysis-Lab/HEAD?urlpath=%2Fdoc%2Ftree%2FLab.ipynb)
 - [View on nbviewer](https://nbviewer.org/github/Red91K/Side-Channel-Power-Analysis-Lab/blob/main/Lab.ipynb)  
 
 ## References
