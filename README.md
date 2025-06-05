@@ -22,5 +22,5 @@ Demonstration of CPA &amp; DPA Attacks against AES
 
 ## References
 
-- [Scared Library Documentation](https://eshard.gitlab.io/scared/guides/dpa_v2_attack.html)
+- [Scared Library Documentation](https://eshard.gitlab.io/scared/)
 - [Intro to Power-Based Side-Channel Attacks](https://www.allaboutcircuits.com/technical-articles/a-basic-introduction-to-power-based-side-channel-attacks/)
